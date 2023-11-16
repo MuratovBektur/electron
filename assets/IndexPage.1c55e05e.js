@@ -1,0 +1,1 @@
+import{d as e,r as t,o as n,c as o}from"./index.fe258d86.js";const c={class:"tw-text-2xl tw-font-bold tw-underline"},i=e({__name:"IndexPage",setup(a){return t([{id:1,content:"ct1"},{id:2,content:"ct2"},{id:3,content:"ct3"},{id:4,content:"ct4"},{id:5,content:"ct5"}]),t({totalCount:1200}),(d,s)=>(n(),o("div",c,"1"))}});export{i as default};
